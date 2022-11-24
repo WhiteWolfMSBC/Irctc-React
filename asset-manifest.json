@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Irctc-React/static/css/main.c8f0cd03.css",
+    "main.js": "/Irctc-React/static/js/main.a9df2651.js",
+    "static/js/787.782b694a.chunk.js": "/Irctc-React/static/js/787.782b694a.chunk.js",
+    "static/media/4.jpg": "/Irctc-React/static/media/4.bfb2adb670d90fac7a4f.jpg",
+    "static/media/9.jpg": "/Irctc-React/static/media/9.d26c3e5008dc34447e89.jpg",
+    "static/media/10.jpg": "/Irctc-React/static/media/10.07ad31ac78924fdb227e.jpg",
+    "static/media/8.jpg": "/Irctc-React/static/media/8.597b795cae3164b22bcc.jpg",
+    "static/media/6.jpg": "/Irctc-React/static/media/6.71ebc4d20cf431407318.jpg",
+    "static/media/7.jpg": "/Irctc-React/static/media/7.dae9ed3bdb27f9e8f5c2.jpg",
+    "index.html": "/Irctc-React/index.html",
+    "main.c8f0cd03.css.map": "/Irctc-React/static/css/main.c8f0cd03.css.map",
+    "main.a9df2651.js.map": "/Irctc-React/static/js/main.a9df2651.js.map",
+    "787.782b694a.chunk.js.map": "/Irctc-React/static/js/787.782b694a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8f0cd03.css",
+    "static/js/main.a9df2651.js"
+  ]
+}
